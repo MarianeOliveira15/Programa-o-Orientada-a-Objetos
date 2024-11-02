@@ -14,7 +14,7 @@ int main() {
     
     double media = (n1*3 + n2*4 + n3*5)/3;
     
-    std::cout << "O aluno " << " obteve média " << media << std::endl;
+    std::cout << "O aluno " << nome << " obteve média " << media << std::endl;
 
     return 0;
 }
